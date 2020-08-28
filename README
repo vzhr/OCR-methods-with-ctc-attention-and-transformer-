@@ -5,3 +5,4 @@
 3) minus_eos_transformer----------the folder contains the code for OCR, which is compose of resnet, and transformer fucntion.in addition, the weight of eos loss is reduced to resolve the issue of premature termination of output, which is common for Transformer structrue.
 
 The file name is a little messy, but the code works fine.
+Add somethings
